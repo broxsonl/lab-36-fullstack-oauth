@@ -1,0 +1,24 @@
+@import "theme";
+
+.thumbnail {
+  position: relative;
+}
+
+.thumbnail .glyphicon {
+  color: red;
+  position: absolute;
+  border-style: none;
+  font-weight: bold;
+  background-color: black;
+  padding: 3px;
+}
+
+.pic-name {
+  font-weight: bold;
+}
+
+.pic-desc {
+  font-style: italic;
+  font-size: 11px;
+  margin-left: 2%;
+}
