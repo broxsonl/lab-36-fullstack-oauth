@@ -1,6 +1,6 @@
 # slugram ignore
 db
-/*.env
+*.env
 data/*
 coverage
 html-report
